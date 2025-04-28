@@ -29,6 +29,7 @@ The model uses image preprocessing techniques to enhance classification accuracy
 - TensorFlow 2.x
 - OpenCV (cv2)
 - NumPy
+- Fruit data set which you can download here: https://www.kaggle.com/datasets/shreyapmaher/fruits-dataset-images/data
 
 ```bash
 pip install tensorflow opencv-python numpy
